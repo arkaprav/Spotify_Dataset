@@ -18,8 +18,8 @@ The scores are as follows
                                 [1145, 5002]]
 3. Support Vector Classifier -  [[4100, 2083],
                                 [ 814, 5333]]
-4. Neural Network-              [[4394, 1789],
-                                [ 924, 5223]]
+4. Neural Network-              [[4508, 1675],
+                                [1007, 5140]]
 5. MLP Classifier-              [[4317, 1866],
                                 [ 921, 5226]
 
