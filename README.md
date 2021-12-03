@@ -14,8 +14,8 @@ For evaluation of classification problem, there are two metrics log loss and con
 The scores are as follows
 1. Logistic Regression -        [[3956, 2227],
                                 [1145, 5002]]
-2. Random Forest Classifier -   [[3956, 2227],
-                                [1145, 5002]]
+2. Random Forest Classifier -   [[4655, 1528],
+                                [ 954, 5193]]
 3. Support Vector Classifier -  [[4100, 2083],
                                 [ 814, 5333]]
 4. Neural Network-              [[4508, 1675],
