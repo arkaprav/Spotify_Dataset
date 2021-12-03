@@ -22,4 +22,5 @@ The scores are as follows
                                 [ 924, 5223]]
 5. MLP Classifier-              [[4317, 1866],
                                 [ 921, 5226]
+
 From these results we can clearly say that Random Forest Classifier works very well here. 
